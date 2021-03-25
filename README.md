@@ -38,7 +38,7 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
+## <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="alexisbec's GitHub Stats" src="https://github-readme-stats-git-master.alexisbec.vercel.app/api?username=alexisbec&show_icons=true&hide_border=true" />
 
