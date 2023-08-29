@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex - aka [alexisbec] 👋
 
-## I'm a 22-year old Full-stack Web Developer eager to learn new things and connect with people around the world
+## I'm a 23-year old Full-stack Web Developer eager to learn new things and connect with people around the world
 
 - 🔭 I want to help people to know this awesome world of software
 - 🌱 I’m currently learning everything 🤣
